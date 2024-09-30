@@ -27,8 +27,13 @@ I'm currently pursuing my Master of Science in Analytics with a specialization i
 + **Hardware Design:** Schematic Design, PCB Design
 + **Version Control:** Git, GitHub
 
-** Recent Projects**
-------------
+
+
+🎯Recent Projects
+----------------------------
+
+.
+
 
 **🤖 AI/ML Interests**
 --------------------------
