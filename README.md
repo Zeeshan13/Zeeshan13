@@ -32,7 +32,15 @@ I'm currently pursuing my Master of Science in Analytics with a specialization i
 🎯Recent Projects
 ----------------------------
 
-.
++ [Massachusetts Property Assessment Dashboard](https://github.com/Zeeshan13/property_assessment_dashboard)
++ [The Role of Data Visualization in Child Welfare Initiatives](https://github.com/Zeeshan13/ChildWelfare-DataViz)
++ [Iris Classification Microservice](https://github.com/Zeeshan13/1stMicroservice_IRIS_Data)
++ [Bike-Severity-Application](https://github.com/Zeeshan13/Cyclist-SafetyPredictorApp)
++ [Narrative Revelation and Book Popularity](https://github.com/Zeeshan13/BookPopularity-KLDAnalysis)
++ [Ad Content Analyzer](https://github.com/Zeeshan13/VideoAd-Analyzer)
++ [AI Chatbot](https://github.com/Zeeshan13/ChatAppWithGemini)
++ [Undocumented Projects](https://github.com/Zeeshan13/Colab_Codes)
+  
 
 
 **🤖 AI/ML Interests**
