@@ -39,7 +39,9 @@ I'm currently pursuing my Master of Science in Analytics with a specialization i
 + [Narrative Revelation and Book Popularity](https://github.com/Zeeshan13/BookPopularity-KLDAnalysis)
 + [Ad Content Analyzer](https://github.com/Zeeshan13/VideoAd-Analyzer)
 + [AI Chatbot](https://github.com/Zeeshan13/ChatAppWithGemini)
++ [Bank-Term-Deposit-Prediction](https://github.com/Zeeshan13/Bank-Term-Deposit-Prediction)
 + [Undocumented Projects](https://github.com/Zeeshan13/Colab_Codes)
+  
   
 
 
