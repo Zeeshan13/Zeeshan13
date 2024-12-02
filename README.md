@@ -40,7 +40,7 @@ I'm currently pursuing my Master of Science in Analytics with a specialization i
 + [Ad Content Analyzer](https://github.com/Zeeshan13/VideoAd-Analyzer)
 + [AI Chatbot](https://github.com/Zeeshan13/ChatAppWithGemini)
 + [Bank-Term-Deposit-Prediction](https://github.com/Zeeshan13/Bank-Term-Deposit-Prediction)
-+ [Automatic Image Caption Application](https://github.com/Zeeshan13/Automatic-Image-Caption/tree/main)
++ [Automatic Image Caption Application](https://github.com/Zeeshan13/Image-Caption)
 + [Undocumented Projects](https://github.com/Zeeshan13/Colab_Codes)
   
   
