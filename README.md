@@ -31,9 +31,10 @@ My journey combines **academic rigor** with **industry experience**, focusing on
 ###
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeeshan13&theme=radical" alt="Zeeshan's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Zeeshan13&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan13&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
 
 ---
 
@@ -276,7 +277,6 @@ My journey combines **academic rigor** with **industry experience**, focusing on
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-3-purple?style=for-the-badge)
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-2-lightgreen?style=for-the-badge)
 
----
 
 
 ---
@@ -309,11 +309,15 @@ My journey combines **academic rigor** with **industry experience**, focusing on
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zeeshan13/Zeeshan13/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zeeshan13/Zeeshan13/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zeeshan13/Zeeshan13/output/pacman-contribution-graph.svg">
-</picture>
+
+
+
+
+<div align="center">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zeeshan13/Zeeshan13/output/pacman-contribution-graph-dark.svg">
+</div>
+
+
 
 ###
 
