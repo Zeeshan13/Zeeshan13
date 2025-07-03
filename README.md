@@ -28,6 +28,13 @@ My journey combines **academic rigor** with **industry experience**, focusing on
   </a>
 </div>
 
+###
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeeshan13&theme=radical" alt="Zeeshan's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan13&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
 ---
 
 ## 🚀 About Me
@@ -271,14 +278,6 @@ My journey combines **academic rigor** with **industry experience**, focusing on
 
 ---
 
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeeshan13&show_icons=true&theme=radical&count_private=true&hide_border=false" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan13&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="165"/>
-</div>
 
 ---
 
