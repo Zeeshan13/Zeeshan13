@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Zeeshan Ahmad Ansari!</h1>
 
-A passionate **MS Analytics Student** and **AI/ML Engineer** dedicated to transforming complex data into intelligent solutions that drive real-world impact. I specialize in bridging the gap between cutting-edge artificial intelligence and practical business applications, with a unique background spanning embedded systems engineering and advanced data science.
+A **recent MS Analytics Graduate** and **experienced AI/ML Engineer** dedicated to transforming complex data into intelligent solutions that drive real-world impact. I specialize in bridging the gap between cutting-edge artificial intelligence and practical business applications, with a unique background spanning embedded systems engineering and advanced data science.
 
 My journey combines **academic rigor** with **industry experience**, focusing on developing scalable AI systems, interactive dashboards, and predictive models that solve meaningful problems across healthcare, finance, social impact, and emerging technologies.
 
@@ -8,7 +8,7 @@ My journey combines **academic rigor** with **industry experience**, focusing on
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=Zeeshan13&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Zeeshan13?style=for-the-badge&color=blue" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Zeeshan13?style=for-the-badge&color=yellow" alt="Stars" />
@@ -16,7 +16,7 @@ My journey combines **academic rigor** with **industry experience**, focusing on
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
@@ -26,7 +26,7 @@ My journey combines **academic rigor** with **industry experience**, focusing on
 
 ## 🚀 About Me
 
-🎓 **Currently pursuing MS in Analytics** with specialization in Applied Machine Intelligence at Northeastern University  
+🎓 **Recent MS Analytics Graduate** with specialization in Applied Machine Intelligence from Northeastern University  
 💡 **Former Embedded Design Engineer** with hands-on experience in hardware design, data analysis, and process optimization  
 📝 **IEEE Published Researcher** with proven expertise in applying data-driven methodologies to complex engineering problems  
 🏆 **Academic Collaborator** - Contributing to social impact research through partnership with Kids at Risk Action (KARA)  
@@ -144,6 +144,7 @@ My journey combines **academic rigor** with **industry experience**, focusing on
 ![LangChain](https://img.shields.io/badge/LangChain-2196F3?style=for-the-badge)
 
 ---
+
 
 ## 🔥 Featured Projects Portfolio
 
@@ -264,10 +265,7 @@ My journey combines **academic rigor** with **industry experience**, focusing on
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Zeeshan13&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Zeeshan13&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+
 
 ###
 
@@ -280,7 +278,16 @@ My journey combines **academic rigor** with **industry experience**, focusing on
 
 ## 🎯 Current Focus & Strategic Initiatives
 
+**🚀 Career Development Goals:**
+- **Full-Time Opportunities** - Seeking Data Scientist or AI/ML Engineer roles
+- **Industry Applications** - Applying academic knowledge to real-world business challenges
+- **Continuous Learning** - Staying current with latest AI/ML technologies and methodologies
+
+
 **🚀 Professional Development Goals:**
+- **Portfolio Expansion** - Building production-ready ML solutions
+- **Industry Networking** - Connecting with data science and AI communities
+- **Technical Leadership** - Contributing to open source projects and mentoring others
 - **MLOps & Production Deployment** - Scaling machine learning models from prototype to production environments
 - **Large Language Model Integration** - Exploring GPT, Claude, and Gemini APIs for enterprise applications
 - **Edge AI & IoT Solutions** - Developing lightweight ML models for embedded systems and hardware optimization
