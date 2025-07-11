@@ -4,6 +4,9 @@ A **recent MS Analytics Graduate** and **experienced AI/ML Engineer** dedicated 
 
 My journey combines **academic rigor** with **industry experience**, focusing on developing scalable AI systems, interactive dashboards, and predictive models that solve meaningful problems across healthcare, finance, social impact, and emerging technologies.
 
+<img align="right" alt="Coding" width="180" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
+
+
 📊 **Data Science & Analytics** | 🤖 **Artificial Intelligence** | ⚡ **Embedded Systems** | 🚀 **Innovation & Research**
 
 ###
