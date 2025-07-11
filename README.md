@@ -1,13 +1,10 @@
 <h1 align="center">👋 Hi, I'm Zeeshan Ahmad Ansari!</h1>
 
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
+
 A **recent MS Analytics Graduate** and **experienced AI/ML Engineer** dedicated to transforming complex data into intelligent solutions that drive real-world impact. I specialize in bridging the gap between cutting-edge artificial intelligence and practical business applications, with a unique background spanning embedded systems engineering and advanced data science.
 
-<img align="right" alt="Coding" width="180" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
-
 My journey combines **academic rigor** with **industry experience**, focusing on developing scalable AI systems, interactive dashboards, and predictive models that solve meaningful problems across healthcare, finance, social impact, and emerging technologies.
-
-
-
 
 📊 **Data Science & Analytics** | 🤖 **Artificial Intelligence** | ⚡ **Embedded Systems** | 🚀 **Innovation & Research**
 
